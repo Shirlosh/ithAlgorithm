@@ -1,0 +1,3 @@
+Time taken by function <insertionSort> is : 0.000488 sec
+Time taken by function <Selection> is : 0.000072 sec
+Time taken by function <QuintupleAlg> is : 0.000208 sec
